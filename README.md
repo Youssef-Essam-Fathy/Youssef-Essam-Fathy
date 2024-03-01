@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on improving the problem solving skills
+- 🔭 I’m currently working on improving my problem solving skills
 - 🌱 I’m currently learning at alx
 - 👯 I’m looking to collaborate on creating new useful projects
 <!--
