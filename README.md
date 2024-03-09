@@ -10,13 +10,6 @@
 - 📫 How to reach me:
   linkedIn: https://www.linkedin.com/in/youssef-essam-b09217226
 <!--
-**Youssef-Essam-Fathy/Youssef-Essam-Fathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Youssef Essam</h1>
 <h3 align="center">A passionate backend software engineer from Egypt</h3>
 
@@ -24,8 +17,21 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-essam-fathy" alt="youssef-essam-fathy" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/youssef42148891" target="blank"><img src="https://img.shields.io/twitter/follow/youssef42148891?logo=twitter&style=for-the-badge" alt="youssef42148891" /></a> </p>
+
+- 🔭 I’m currently working on **improving my problem solving skills**
+
+- 🌱 I’m currently learning **software engineering at ALX**
+
+- 👯 I’m looking to collaborate on **new useful projects**
+
+- 💬 Ask me about **DevOps, software engineering and technology**
+
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/youssef42148891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youssef42148891" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +40,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-essam-fathy&show_icons=true&locale=en&layout=compact" alt="youssef-essam-fathy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-essam-fathy&show_icons=true&locale=en" alt="youssef-essam-fathy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-essam-fathy&" alt="youssef-essam-fathy" /></p>
