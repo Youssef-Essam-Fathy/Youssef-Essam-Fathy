@@ -10,7 +10,7 @@
 - 📫 How to reach me:
   linkedIn: https://www.linkedin.com/in/youssef-essam-b09217226  -->
 
-<h1 align="center">Hi 👋, I'm Youssef Essam</h1>
+<h1 align="center">Hi there 👋, I'm Youssef Essam</h1>
 <h3 align="center">A passionate backend software engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-essam-fathy&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-essam-fathy" /> </p>
@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **improving my problem solving skills**
 
-- 🌱I have been graduated from **software engineering program at ALX**
+- 🌱I have been graduated from **Backend software engineering program at ALX**
 
 - 👯 I’m looking to collaborate on **new useful projects**
 
