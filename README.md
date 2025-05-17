@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **improving my problem solving skills**
 
-- 🌱 I’m currently learning **software engineering at ALX**
+- 🌱I have been graduated from **software engineering program at ALX**
 
 - 👯 I’m looking to collaborate on **new useful projects**
 
