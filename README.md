@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on improving my problem solving skills
-- 🌱 I have been graduated from alx software engineering programme
+- 🌱 I have been graduated from alx software engineering program
 - 👯 I’m looking to collaborate on creating new useful projects
 - 🤔 I’m looking for help with improving the tech field
 - 💬 Ask me about software engineering and how to deal with computer
